@@ -29,7 +29,7 @@ An artistic study of the Putin regime through the prism of satire, documentary t
 
 [**The Grand Album of satirical miniatures "Ward №666"**](album_en.md)
 
-[**IN THE HALL OF A THOUSAND TRUTHS: Beer, Deals, Semantics of Decay, and the Biochemistry of Power**](pivo_en.md)
+[**In the Hall of a Thousand Truths: Beer, Deals, Semantics of Decay, and the Biochemistry of Power**](pivo_en.md)
 
 [**Satirical mini-play "Rising Off Her Knees"**](play_en.md) 
 
