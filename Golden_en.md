@@ -24,7 +24,8 @@ Below you will find **The Golden Dozen** — twelve key diagnostic miniatures. T
 
 [2. Updating Christianity](Golden_en.md#2-updating-christianity)
 
-[3. Dreams of the Dnieper](Golden_en.md#3-dreams-of-the-dnieper)
+[3. Dreams of the Dnieper](Golden_en.md#3-dreams-of-the-dnieper)
+
 
 [4. Tunguska Special Effect: we can do it Again!](Golden_en.md#4-tunguska-special-effect-we-can-do-it-again)
 
@@ -874,4 +875,5 @@ I demand that you make peace! Sit down at the negotiating table!
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
