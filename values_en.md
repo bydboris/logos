@@ -13,7 +13,7 @@ Contacts:
 bbidyaga@protonmail.com 
 [Написать в Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
 
-![](Images/Cover_Values.jpg)
+![](Images/Cover_Article.jpg)
 
 On November 9, 2022, Russian President Vladimir Putin signed Decree No. 809 "On the Foundations of State Policy for the Preservation and Strengthening of Traditional Russian Spiritual and Moral Values" (hereinafter referred to as the Putin Decree or the Decree). Source: http://www.kremlin.ru/acts/bank/48502  
 
