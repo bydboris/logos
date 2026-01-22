@@ -11,7 +11,7 @@
 bbidyaga@protonmail.com | 
 [Написать в Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
 
-![](Images/Cover_Values.jpg)
+![](Images/Cover_Article.jpg)
 
 9 листопада 2022 року президент Росії Володимир Путін підписав указ «Основы державної політики щодо збереження та зміцнення традиційних російських духовно-моральних цінностей» (далі – Путінський указ або Указ). Джерело: http://www.kremlin.ru/acts/bank/48502
 
