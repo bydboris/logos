@@ -56,7 +56,7 @@ Une étude artistique du régime poutinien à travers le prisme de la satire, du
 
 [**Le Grand Album de miniatures satiriques « Chambre n°666 »**](album_fr.md) 
 
-[**Le LOGOS de Poutine : discours programmatiques, dialogues sans protocole**](pivo_fr.md)
+[**Dans la Salle des Mille Vérités : Bière, Marchandages, Sémantique de la Décomposition et Biochimie du Pouvoir**](pivo_fr.md)
 
 [**Mini-pièce satirique « Se relevant de ses genoux »**](play_fr.md) 
 
