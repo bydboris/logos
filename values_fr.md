@@ -11,7 +11,7 @@ Contacts:
 bbidyaga@protonmail.com 
 [Написать в Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
 
-![](Images/Cover_Values.jpg)
+![](Images/Cover_Article.jpg)
 
 
 Le 9 novembre 2022, le président russe Vladimir Poutine a signé le décret « Fondements de la politique de l'État pour la préservation et le renforcement des valeurs spirituelles et morales traditionnelles russes » (ci-après dénommé le Décret Poutine ou le Décret). Source : http://www.kremlin.ru/acts/bank/48502
