@@ -41,7 +41,7 @@ Below you will find **The Golden Dozen** — twelve key diagnostic miniatures. T
 
 [10. Diploma of Puberty](Golden_en.md#10-diploma-of-puberty)
 
-[11. summit in anchorage, alaska](Golden_en.md#11-summit-in-anchorage-alaska)
+[11. Summit in Anchorage, Alaska](Golden_en.md#11-summit-in-anchorage-alaska)
 
 [12. Geopolitical Sandbox](Golden_en.md#12-geopolitical-sandbox)
 
@@ -875,5 +875,6 @@ I demand that you make peace! Sit down at the negotiating table!
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
 
