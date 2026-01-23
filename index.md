@@ -6,7 +6,7 @@
 
 ## 🇫🇷 FRANÇAIS
 
-[**L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE**](#l'encyclopédie-du-poutinisme-militaire-orthodoxe)
+[**L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE**](#lencyclopédie-du-poutinisme-militaire-orthodoxe)
 
 ## 🇷🇺 РУССКИЙ 
 
