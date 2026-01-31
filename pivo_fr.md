@@ -1,6 +1,7 @@
 [**Page d'accueil**](index.md)
 
-# DANS LE HALL DES MILLE VÉRITÉS 
+## Щеглова Ольга (Борис Бидяга)
+# DANS LA SALLE DES MILLE VÉRITÉS 
 ### Bière, Marchandages, Sémantique de la Décomposition et Biochimie du Pouvoir
 
 **SOMMAIRE**:
@@ -719,6 +720,7 @@ En réalité, nous ne poursuivrons plus les dissidents — pour la simple et bon
 
 #PoutinismeMilitaireOrthodoxe
                                 👻                    
+
 
 
 ## 9. LE BAR À POTINS DE TRUMPOUTATION
