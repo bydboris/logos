@@ -1,5 +1,6 @@
 [**Version complète du projet**](index.md) 
 
+## Щеглова Ольга (Борис Бидяга)
 # La Douzaine d'Or : Top 12 des miniatures satiriques
 
 **Préface Diagnostique : La satire comme méthode d'autopsie politique**
@@ -20,7 +21,8 @@ Le dossier de la « Douzaine d’Or » présenté ici dissèque quatre pathologi
 
 Voici ci-dessous la Douzaine d'Or — douze miniatures diagnostiques clés. Elles servent à la fois d'introduction et de preuve conceptuelle concluante.
 
-**SOMMAIRE**:
+**SOMMAIRE**
+:
 
 [1. Le Nouveau Testament Supernovaire](Golden_fr.md#1-le-nouveau-testament-supernovaire)
 
@@ -28,7 +30,8 @@ Voici ci-dessous la Douzaine d'Or — douze miniatures diagnostiques clés. Elle
 
 [3. Rêves du Dniepr](Golden_fr.md#3-rêves-du-dniepr)
 
-[4. L’effet spécial de Tunguska : on peut le recommencer !](Golden_fr.md#4-leffet-spécial-de-tunguska--on-peut-le-recommencer-)
+[4. L’effet spécial de Tunguska : on peut le recommencer !](Golden_fr.md#4-leffet-spécial-de-tunguska--on-peut-le-recommencer-)
+
 
 [5. Suppléments de propagande](Golden_fr.md#5-suppléments-de-propagande)
 
@@ -873,5 +876,6 @@ Mêmes personnages
 <img src="https://pvpclt.github.io/project/Images/Logo.jpg" style="display: block; margin: 0 auto; width: 50%;" alt="">
 
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
+
 
 [**Page d'accueil**](index.md)
