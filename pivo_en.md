@@ -1,5 +1,6 @@
 [**Main Page**](index.md)
 
+## Щеглова Ольга (Борис Бидяга)
 # IN THE HALL OF A THOUSAND TRUTHS 
 ### Beer, Deals, Semantics of Decay, and the Biochemistry of Power
 
@@ -704,6 +705,7 @@ We won’t actually have to persecute dissenters — for the simple reason that 
 
 #OrthodoxMilitaryPutinism
                               👻  
+
 
 
 ## 9. TRUMPUTATION HAPPY HOUR 
