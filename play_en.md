@@ -1,5 +1,4 @@
-**Shcheglova Olga (Boris Bidyaga)**
-
+## Щеглова Ольга (Борис Бидяга)
 # RISING OFF HER KNEES 
 
 **One-act play**
