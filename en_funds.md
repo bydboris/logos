@@ -1,4 +1,5 @@
 ### LIST OF CHARITABLE FOUNDATIONS ASSISTING UKRAINE:
+![](Images/Cover_Project.jpg)
 
 **1. UNBROKEN (Незламні)**
 Prosthetics, rehabilitation, and psychological support for military and civilians injured in the war.
