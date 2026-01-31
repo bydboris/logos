@@ -1,3 +1,4 @@
+## Щеглова Ольга (Борис Бидяга)
 # À PROPOS DE L’AUTEURE ET DES CONDITIONS DE CRÉATION DU PROJET
 
 ![](Images/Author.jpg)
