@@ -1,5 +1,5 @@
-##  Les Chroniques de la persécution : Guide Pratique du FSB
-
+## Щеглова Ольга (Борис Бидяга)
+#  Les Chroniques de la persécution : Guide Pratique du FSB
 
 ### GUIDE PRATIQUE DU FSB, LEÇON 1
 
@@ -1110,6 +1110,7 @@ Russie, Moscou. Un appartement confortable dans un immeuble. Deux employés des 
 **SENKO** : 
 
 — Tu vois ? Elle nous dirige. On croyait être les dresseurs… mais on est ses marionnettes. Elle a piraté notre « Standard d’Or ». Maintenant, elle nous crée un problème...
+
 
 #PoutinismeMilitaireOrthodoxe 👻
 
