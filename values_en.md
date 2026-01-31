@@ -1,6 +1,4 @@
-
-
-**Shcheglova Olga (Boris Bidyaga)**
+## Щеглова Ольга (Борис Бидяга)
 
 # 🇬🇧 THE ANATOMY OF PUTIN'S "TRADITIONAL VALUES"
 
