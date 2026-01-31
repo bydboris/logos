@@ -1,6 +1,5 @@
+## Щеглова Ольга (Борис Бидяга)
 # ANATOMIE DES « VALEURS TRADITIONNELLES » POUTINIENNES
-
-**Shcheglova Olga (Boris Bidyaga)**
 
 **ATTENTION !**
 **NOTE IMPORTANTE !**
