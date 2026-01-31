@@ -1,5 +1,5 @@
-## The Persecution Chronicles: FSB Playbook
-
+## Щеглова Ольга (Борис Бидяга)
+# The Persecution Chronicles: FSB Playbook
 
 ### FSB PLAYBOOK, LESSON 1
 
@@ -1064,6 +1064,7 @@ Russia, Moscow. A cozy apartment in a high-rise building. Two Russian intelligen
 **SENKO**: 
 
 – Vechirko, just look at what the old bitch is writing about us in her stupid "FSB Manual"!
+
 
 **VECHIRKO** (looking up, bored):
 
