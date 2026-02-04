@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Главная страница**](index.md)
 
@@ -972,6 +972,7 @@ IQ * 10 (мг). Максимальная суточная доза - 1300 мг.
 [**Список благотворительных фондов в помощь Украине**](ru_funds)
 
 [**На главную страницу**](index.md)
+
 
 
 
