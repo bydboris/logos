@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md) 
 
@@ -1098,4 +1098,5 @@ Bar américain. Le président russe Vladimir Poutine et le président américain
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
 
 [**Page d'accueil**](index.md)
+
 
