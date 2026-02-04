@@ -1,8 +1,11 @@
-[**Page d'accueil**](index.md)
+<meta name="robots" content="noindex, no follow">
 
-## Щеглова Ольга (Борис Бидяга)
+[**Page d'accueil**](index.md) 
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # DANS LA SALLE DES MILLE VÉRITÉS 
-### Bière, Marchandages, Sémantique de la Décomposition et Biochimie du Pouvoir
+### La source toxique de la rhétorique poutineuse
 
 **SOMMAIRE**:
 
@@ -1095,3 +1098,4 @@ Bar américain. Le président russe Vladimir Poutine et le président américain
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
 
 [**Page d'accueil**](index.md)
+
