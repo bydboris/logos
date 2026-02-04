@@ -1,4 +1,9 @@
-## Щеглова Ольга (Борис Бидяга)
+<meta name="robots" content="noindex, no follow">
+
+[**Main Page**](index.md)
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # The Persecution Chronicles: FSB Playbook
 
 ### FSB PLAYBOOK, LESSON 1
@@ -1185,4 +1190,5 @@ That’s you. In her book.
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
