@@ -1,6 +1,9 @@
-[**Page d'accueil**](index.md)
+<meta name="robots" content="noindex, no follow">
 
-## Щеглова Ольга (Борис Бидяга)
+[**Version complète du projet**](index.md) 
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # 🇫🇷 LE GRAND ALBUM DE MINIATURES SATIRIQUES « CHAMBRE N°666 »
 
 **ATTENTION !**
