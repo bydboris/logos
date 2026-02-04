@@ -1,6 +1,9 @@
-[**Main page**](index.md)
+<meta name="robots" content="noindex, no follow">
 
-## Щеглова Ольга (Борис Бидяга)
+[**Main Page**](index.md)
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # 🇬🇧 THE GRAND ALBUM OF SATIRICAL MINIATURES "WARD №666"
 
 **ATTENTION!**
