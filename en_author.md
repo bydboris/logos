@@ -1,4 +1,9 @@
-## Щеглова Ольга (Борис Бидяга)
+<meta name="robots" content="noindex, no follow">
+
+[**Main Page**](index.md)
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # ABOUT THE AUTHOR AND THE CONDITIONS OF THE PROJECT’S CREATION
 
 ![](Images/Author.jpg)
