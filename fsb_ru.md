@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Главная страница**](index.md)
 
@@ -1183,6 +1183,7 @@
 [**Список благотворительных фондов в помощь Украине**](ru_funds)
 
 [**На главную страницу**](index.md)
+
 
 
 
