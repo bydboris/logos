@@ -1,6 +1,9 @@
+<meta name="robots" content="noindex, no follow">
+
 [**Full Version of the Project**](index.md)
 
-## Щеглова Ольга (Борис Бидяга)
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # The Golden Dozen: Top 12 Satirical Miniatures
 
 **Diagnostic Foreword: Satire as a Method of Political Autopsy**
@@ -876,6 +879,7 @@ I demand that you make peace! Sit down at the negotiating table!
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
 
 
