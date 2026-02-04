@@ -1,21 +1,10 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md) 
 
 **SHCHEGLOVA OLGA (BORIS BIDYAGA)**
 
 # 🇫🇷 LE GRAND ALBUM DE MINIATURES SATIRIQUES « CHAMBRE N°666 »
-
-**ATTENTION !**
-
-**NOTE IMPORTANTE !**
-
-Ce projet a été créé dans un contexte de persécution numérique. Les services secrets russes mènent des cyberattaques systématiques visant à déformer et à substituer la traduction correcte des mots et des expressions, cherchant à discréditer les textes et à en altérer le sens. 
-Le FSB mène systématiquement des cyberattaques sur mon site, en altérant la mise en forme des textes. Merci de votre compréhension.
-Si vous êtes un locuteur natif et que vous remarquez dans les textes des mots et des expressions absurdes, illogiques, dénués de sens, "maladroits" ou grammaticalement incorrects, veuillez signaler l'erreur spécifique en utilisant les contacts ci-dessous (proposez votre version et expliquez pourquoi elle est meilleure). Votre aide pour garantir l'intégrité linguistique et la justesse des traductions est inestimable dans ce combat pour la vérité.
-Contacts:
-bbidyaga@protonmail.com | 
-[Écrire via Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
 
 ![](Images/Fr_Album_Cover.jpg)
 
@@ -24,9 +13,6 @@ bbidyaga@protonmail.com |
 Ce qui se trouve devant vous n’est pas seulement un recueil de caricatures. C’est une coupe anatomique de l’ère Poutine : le poutinisme militaire orthodoxe comme forme de folie collective.
 On y trouve des icônes avec des dieux païens, des baptêmes dans les tranchées, de l’eau bénite — injectée par voie intramusculaire. Ici, le patriotisme se pare d’une chaussette sur le sexe et les dauphins de combat du Pentagone nagent au service de la guerre.
 Dans ces miniatures se dessine une société où la guerre a remplacé le bon sens, les « valeurs traditionnelles » ont remplacé la conscience, et l’orthodoxie est devenue le « lubrifiant » des lance-missiles. Les prêtres bénissent la violence, les députés marchandent le patriotisme, et l’école n’enseigne plus à penser, mais à enfanter et obéir.
-
-Bonne lecture !
-N'oubliez pas de liker, de reposter et de partager le lien avec vos amis. Votre engagement est le meilleur soutien pour le projet !
 
 
 ## 1. PATRIOTISME AVEC UNE CHAUSSETTE SUR LA BITE
