@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Main Page**](index.md)
 
@@ -879,6 +879,7 @@ I demand that you make peace! Sit down at the negotiating table!
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
 
 
