@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Главная страница**](index.md)
 
