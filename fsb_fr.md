@@ -1,4 +1,9 @@
-## Щеглова Ольга (Борис Бидяга)
+<meta name="robots" content="noindex, no follow">
+
+[**Version complète du projet**](index.md) 
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 #  Les Chroniques de la persécution : Guide Pratique du FSB
 
 ### GUIDE PRATIQUE DU FSB, LEÇON 1
@@ -1119,3 +1124,4 @@ Russie, Moscou. Un appartement confortable dans un immeuble. Deux employés des 
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
 
 [**Page d'accueil**](index.md)
+
