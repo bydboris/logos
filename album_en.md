@@ -6,25 +6,13 @@
 
 # 🇬🇧 THE GRAND ALBUM OF SATIRICAL MINIATURES "WARD №666"
 
-**ATTENTION!**
-
-**IMPORTANT NOTE!**
-
-This project was created under conditions of digital persecution. Russian special services carry out systematic cyber attacks aimed at distorting and substituting correct translations of words and expressions, seeking to discredit the texts and corrupt their meaning.
-If you are a native speaker and notice absurd, illogical, nonsensical, "clumsy," or grammatically incorrect words and expressions in the texts, please report the specific error using the contacts below (suggest your version and explain why it is better). Your assistance in ensuring linguistic integrity and the adequacy of translations is invaluable in this struggle for truth.
-Contacts:
-bbidyaga@protonmail.com | 
-[Write via Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
-
 ![](Images/En_Album_Cover.jpg)
 
 ### INTRODUCTION
+
 What lies before you is not just a collection of caricatures. It is an anatomical cross-section of the Putin era: Orthodox military Putinism as a form of collective madness.
 Here you will find icons with pagan gods, baptisms in trenches, holy water — administered intramuscularly. Here patriotism comes with a sock on the genitals, and the Pentagon’s combat dolphins swim freely.
 In these miniatures, society appears as one where war has replaced common sense, “traditional values” have replaced conscience, and Orthodoxy has become the “lubricant” for missile launchers. Priests bless violence, deputies trade in patriotism, and schools teach not to think, but to give birth and obey.  
-
-Enjoy your reading!
-Don't forget to like, repost, and share the link with your friends. Your engagement is the best support for the project!
 
 
 ## 1. PATRIOTISM WITH SOCK ON DICK
