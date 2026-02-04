@@ -1,8 +1,13 @@
+<meta name="robots" content="noindex, no follow">
 
+[**Main Page**](index.md)
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
 
 # RISING OFF HER KNEES 
 
 **One-act play**
+
 **For the 72nd anniversary of Putin**
 
 ![](Images/Cover_Play.jpg)
