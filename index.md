@@ -1,4 +1,4 @@
-## Щеглова Ольга (Борис Бидяга)
+## Shcheglova Olga (Boris Bidyaga)
 ![](Images/Logo.jpg)
 
 ## 🇬🇧 ENGLISH 
