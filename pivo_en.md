@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Main Page**](index.md)
 
@@ -1088,4 +1088,5 @@ American bar. US President Donald Trump and Russian President Vladimir Putin at 
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
