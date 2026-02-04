@@ -1,6 +1,6 @@
 <meta name="robots" content="noindex, no follow">
 
-[**Version complète du projet**](index.md) 
+[**Page d'accueil**](index.md) 
 
 **SHCHEGLOVA OLGA (BORIS BIDYAGA)**
 
@@ -882,4 +882,5 @@ Mêmes personnages
 
 
 [**Page d'accueil**](index.md)
+
 
