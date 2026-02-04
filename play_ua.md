@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**На головну сторінку**](index.md)
 
@@ -557,6 +557,7 @@
 **ISBN 978-5-9903439-2-4**
 
 **© Щеглова О.В., 2024**  
+
 
 
 
