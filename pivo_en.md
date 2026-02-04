@@ -1,8 +1,11 @@
+<meta name="robots" content="noindex, no follow">
+
 [**Main Page**](index.md)
 
-## Щеглова Ольга (Борис Бидяга)
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # IN THE HALL OF A THOUSAND TRUTHS 
-### Beer, Deals, Semantics of Decay, and the Biochemistry of Power
+### Poisonous source of Putin's Rhetoric 
 
 **CONTENTS**
 
@@ -1085,3 +1088,4 @@ American bar. US President Donald Trump and Russian President Vladimir Putin at 
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
