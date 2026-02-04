@@ -1,6 +1,9 @@
+<meta name="robots" content="noindex, no follow">
+
 [**Version complète du projet**](index.md) 
 
-## Щеглова Ольга (Борис Бидяга)
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
+
 # La Douzaine d'Or : Top 12 des miniatures satiriques
 
 **Préface Diagnostique : La satire comme méthode d'autopsie politique**
@@ -879,3 +882,4 @@ Mêmes personnages
 
 
 [**Page d'accueil**](index.md)
+
