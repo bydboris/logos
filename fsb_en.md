@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Main Page**](index.md)
 
@@ -1190,5 +1190,6 @@ That’s you. In her book.
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
 
