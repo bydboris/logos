@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md) 
 
@@ -882,5 +882,6 @@ Mêmes personnages
 
 
 [**Page d'accueil**](index.md)
+
 
 
