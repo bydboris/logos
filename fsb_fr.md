@@ -1,4 +1,4 @@
-<meta name="robots" content="noindex, no follow">
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md) 
 
@@ -1124,5 +1124,6 @@ Russie, Moscou. Un appartement confortable dans un immeuble. Deux employés des 
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
 
 [**Page d'accueil**](index.md)
+
 
 
