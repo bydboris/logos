@@ -1,15 +1,10 @@
-## Щеглова Ольга (Борис Бидяга)
+<meta name="robots" content="noindex, no follow">
+
+[**Main Page**](index.md)
+
+**SHCHEGLOVA OLGA (BORIS BIDYAGA)**
 
 # 🇬🇧 THE ANATOMY OF PUTIN'S "TRADITIONAL VALUES"
-
-**ATTENTION!**  
-**IMPORTANT NOTE!**
-
-This project was created under conditions of digital persecution. Russian special services carry out systematic cyber attacks aimed at distorting and substituting correct translations of words and expressions, seeking to discredit the texts and corrupt their meaning.
-If you are a native speaker and notice absurd, illogical, nonsensical, "clumsy," or grammatically incorrect words and expressions in the texts, please report the specific error using the contacts below (suggest your version and explain why it is better). Your assistance in ensuring linguistic integrity and the adequacy of translations is invaluable in this struggle for truth.
-Contacts:
-bbidyaga@protonmail.com 
-[Написать в Signal](https://signal.me/#eu/iAMBIvJmOAjoVIE8JlkLyPckG75BEyLAnt3zv7U2XWrZtjnVQf9CMLHrow7DtBSk)
 
 ![](Images/Cover_Article.jpg)
 
