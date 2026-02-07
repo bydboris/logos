@@ -1116,14 +1116,160 @@ Russie, Moscou. Un appartement confortable dans un immeuble. Deux employés des 
 
 — Tu vois ? Elle nous dirige. On croyait être les dresseurs… mais on est ses marionnettes. Elle a piraté notre « Standard d’Or ». Maintenant, elle nous crée un problème...
 
+#PoutinismeMilitaireOrthodoxe 👻
+
+### GUIDE PRATIQUE DU FSB, LEÇON 14
+
+**PROTOCOLE : « ACCIDENT » À L’HÔTEL**
+
+Russie, Moscou. Un appartement confortable dans un immeuble. Deux employés des services spéciaux russes sont installés confortablement dans des fauteuils.
+
+**SENKO** (pourpre de rage) : 
+
+— Encore un foirage complet, Vetchirko ! C’est quoi ton problème, bordel ?! C’était un cas d’école, une affaire cousue de fil blanc ! Sortie tout droit du manuel ! T’es complètement abruti ou t’as juste fini de perdre tes neurones ?
+
+**VETCHIRKO** (se justifiant) : 
+
+— Je sais, Senko. Ça aurait dû glisser tout seul, comme une lettre à la poste.
+
+**SENKO** : 
+
+— Alors, c’est quoi le souci ? Pourquoi t’as massacré l’opération comme un bleu ?
+
+**VETCHIRKO** (d’un air sombre) : 
+
+— On a tout fait selon le protocole, Senko. Pile-poil comme dans le manuel.
+
+**SENKO** (furieux) : 
+
+— Alors pourquoi cette traînée est encore en train de pomper notre air ?! T’avais tous les atouts, bordel ! La fille a pris le billet il y a un mois, pour le 22 janvier. C’était écrit qu’elle irait chercher un hôtel le 21. La fille a réclamé une cuisine et un balcon — c’est un cadeau du ciel, ça simplifie le boulot de cent coudées ! La vieille ne quitte jamais son quartier. Donc, un hôtel à Konyaaltı, forcément. On ne t’a pas juste servi la victoire sur un plateau, on te l’a mâchée et recrachée dans la bouche ! Konyaaltı, un appart-hôtel, cuisine, balcon. À partir du 21, pour huit nuits. Qu’est-ce qu’il y a de si compliqué, merde ?!
+
+**VETCHIRKO** (déprimé) : 
+
+— On a tout fait carré, Senko. On a passé au peigne fin tous les apparts de Konyaaltı. Y’en n’a pas des masses là-bas. On a piégé une « chambre spéciale » dans chacun d’eux. Le personnel était briefé. Le 21, la grand-mère débarque, demande exactement ce qu’on attendait. En janvier, Antalya, c’est une ville fantôme. C’était mathématique : elle finissait dans notre souricière, peu importe l’hôtel. Tout était blindé, calculé.
+
+**SENKO** (enrageant) : 
+
+— Et elle a atterri où ?
+
+**VETCHIRKO** (avec empressement) : 
+
+— À l’appart-hôtel Tunali, après Liman. Le plus proche de son point d’ancrage.
+
+**SENKO** : 
+
+— Et alors ?
+
+**VETCHIRKO** (s’animant) : 
+
+— C’était du nanan : l’escalier de secours passe pile devant le balcon. On a fait sauter le verrou du portillon de l’escalier — accès libre ! La porte entre le balcon et la cuisine ? Une blague. Un pauvre loquet tout naze. Deux secondes pour le faire sauter. On a remplacé la bouteille de gaz par une pleine à craquer. Y’en avait assez pour envoyer un bataillon de ces salopes ad patres. Voire un régiment entier. Dans la chambre de la gamine, l’entrée se fait par le couloir ; porte épaisse, verrouillée à clé. La vieille, elle, pionce toujours dans la cuisine, et là aussi, la porte est du genre solide.
+
+(Pause. Vetchirko pousse un profond soupir.)
+
+**VETCHIRKO** : 
+
+— Tout était calé. À quatre heures du mat’, on s’introduit par le balcon via l’escalier de secours. On neutralise la vieille au chloroforme, proprement, sans bavure. On boucle la porte de la chambre de la fille. On verrouille la porte de la cuisine vers le couloir. On ouvre les gaz à fond — et on se tire sur le balcon. Quinze minutes plus tard, on rentre masqués, on coupe le gaz, on entrouvre la fenêtre, on déverrouille le couloir et on s’évapore par le balcon — comme on est venus. Ça devait passer crème, Senko. On a fait un sans-faute.
+
+**SENKO** (bouillonnant toujours) : 
+
+— Alors pourquoi ça a fini en eau de boudin ?!
+
+**VETCHIRKO** : 
+
+— La sorcière a grillé le point faible tout de suite. Elle a verrouillé le portillon avec son propre antivol de vélo, un truc blindé. Ensuite, elle a dégoté des clés pour la porte du balcon et a bloqué le loquet de l’extérieur. Mais bon, ça, on aurait pu gérer. Le souci, c’est qu’elle a aussi bloqué le loquet de l’intérieur ! C’est pas une poignée normale, c’est une barre horizontale. Elle a calé un gros morceau de bois en dessous et a ligoté le tout avec de la corde, comme une brute. Impossible de bouger la poignée d’un millimètre, que dalle.
+
+**SENKO** (furieux) : 
+
+— Putain de bordel ! Comment elle sait tout ça ? C’est qui la taupe qui la rencarde ?
+
+**VETCHIRKO** : 
+
+— C’est de ta faute, Senko, cherche pas plus loin !
+
+**SENKO** (hors de lui) : 
+
+— Quoi ?!
+
+**VETCHIRKO** (précipitamment) : 
+
+— T’as oublié Moscou ? Tes fils qui s’amusaient à grimper chez elle par le balcon. Forcément, maintenant, elle voit le balcon comme le maillon faible de son périmètre. Fallait pas faire les acrobates à l’époque ! Aujourd’hui, elle serait déjà entre quatre planches.
+
+**SENKO** (indigné) : 
+
+— Et comment on aurait dû faire ?! On a flingué ses trois ordis, crevé son matelas et, surtout, on a tartiné ses fringues thermiques de poison ! Si cette ordure ne les avait pas balancées à la machine juste avant la Turquie, elle nourrirait les pissenlits par la racine depuis deux ans déjà !
+Elle n’était pas censée laver ce costume !
+
+(Pause.)
+
+**SENKO** (d’un air vexé) : 
+
+— Elle n’avait aucune raison de laver ce putain de costume !
+
+**VETCHIRKO** (ironique) : 
+
+— Ouais... faut croire que c’était pas notre jour...
+
+**SENKO** (explosant) : 
+
+— C’est toi qui m’as juré qu’elle les lavait à la fin de la saison, jamais au début !
+
+**VETCHIRKO** (insistant) : 
+
+— Mais c’était comme ça pendant dix piges ! En octobre, toujours. Au printemps, que dalle.
+
+**SENKO** : 
+
+— Alors pourquoi ce coup-ci ?!
+
+**VETCHIRKO** : 
+
+— Parce qu’il restait de la place dans le tambour, et sa machine est une vraie poubelle — si elle n’est pas pleine, elle se met à sauter et à danser la samba dans tout l’appart.
+
+**SENKO** : 
+
+— On dirait que t’es dans sa tête, Vetchirko. Ça devient flippant.
+
+**VETCHIRKO** (condescendant) : 
+
+— Ça fait dix ans que je la colle au train, Senko. Je connais sa logique mieux qu’elle-même.
+
+**SENKO** (grimaçant de dégoût) : 
+
+— Que le diable l’emporte, elle, sa machine de merde, sa logique et ses « protocoles » !
+
+**VETCHIRKO** (narquois) : 
+
+— Bah, on a quand même planqué un cristal de poison dans le filtre du robinet, pour le principe.
+
+**SENKO** (sarcastique) : 
+
+— Et elle n’a pas dévissé le truc, j’imagine ?
+
+**VETCHIRKO** (morose) : 
+
+— Si. Elle l’a dévissé. Et en partant, elle l’a remis en place, tranquille.
+
+**SENKO** (sec) : 
+
+— Bon, écoute-moi bien, Vetchirko. Tes foirages, j’en ai ras la casquette. La prochaine fois, si tu te loupes encore, je sucre tes indemnités et tes frais de déplacement direct sur ta paye. Compris ?
+
+**VETCHIRKO** (hésitant) : 
+
+— Mais Senko, j’y suis pour rien ! La vieille, c’est un cas de « force majeure ». Juridiquement, je ne peux pas être responsable d’un acte de Dieu !
+
+**SENKO** (menaçant) : 
+
+— Toi, tu la fermes. Je vais te montrer, moi, ce que c’est qu’une « force majeure », tu vas pas t’en remettre !
 
 #PoutinismeMilitaireOrthodoxe 👻
+
 
 <img src="https://pvpclt.github.io/project/Images/Logo.jpg" style="display: block; margin: 0 auto; width: 50%;" alt="">
 
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
 
 [**Page d'accueil**](index.md)
+
 
 
 
