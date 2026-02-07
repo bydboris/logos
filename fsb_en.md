@@ -1185,11 +1185,154 @@ That’s you. In her book.
 
 #OrthodoxMilitaryPutinism 👻
 
+### FSB PLAYBOOK, LESSON 14
+
+**PROTOCOL: “ACCIDENT” AT THE HOTEL**
+
+Russia, Moscow. A cozy apartment in a high-rise building. Two Russian intelligence officers relaxing comfortably in armchairs.
+
+**SENKO** (turning purple with rage): 
+
+— Another screw-up, Vechirko! What the hell is wrong with you?! This was a textbook case! A total slam dunk! Are you out of your freaking mind or just born stupid?
+
+**VECHIRKO** (defensive): 
+
+— I know, Senko. It should have been a walk in the park. Piece of cake.
+
+**SENKO**: 
+
+— Then what gives? Why did you butcher the whole thing?
+
+**VECHIRKO** (glumly): 
+
+— We followed the manual to a T, Senko.
+
+**SENKO** (furious): 
+
+— Then why is the old hag still breathing? You had all the damn cards! The daughter booked the ticket a month ago for January 22nd. Any idiot could see that on the 21st, she’d go hotel hunting. She wanted a kitchen and a balcony — that’s a gift, Vechirko! It narrows it down to nothing! She never leaves her neighborhood, so it had to be Konyaaltı. We didn't just hand you a win — we practically served it on a silver platter! An apart-hotel, kitchen, balcony, 8 nights... How do you mess that up?
+
+**VECHIRKO** (dejected): 
+
+— We did it right, Senko. We staked out every apart-hotel in Konyaaltı. There aren't that many. We rigged a "special room" in every single one and prepped the staff. On the 21st, the target shows up asking for the exact setup we expected. In January, Antalya is a ghost town. She was guaranteed to end up in our trap. It was all locked and loaded.
+
+**SENKO** (snarling): 
+
+— So where did she land?
+
+**VECHIRKO** (eagerly): 
+
+— Tunali Apart-hotel, just past Liman. Right by her usual spot.
+
+**SENKO**: 
+
+— And?
+
+**VECHIRKO** (brightening up): 
+
+— It was perfect: fire escape right by the balcony. We clipped the lock on the gate — wide open! The door from the balcony to the kitchen? A joke. One cheap latch. Two seconds to pop it. We swapped the gas tank for a fresh one. Enough to take out a whole battalion of these hags, maybe a whole regiment. The bedroom where the daughter sleeps is tucked away with a solid door. The old bitch always crashes in the kitchen, and that door is heavy too.
+
+(Pause. Vechirko sighs heavily.)
+
+**VECHIRKO**: 
+
+— We had it all mapped out. 4 AM, we slip in through the balcony. Knock her out with chloroform — clean, no traces. Close the bedroom door. Lock the kitchen door to the hall. Open the gas valve and bail. Fifteen minutes later, we go back in masks, shut off the gas, crack a window, unlock the hall door, and vanish back over the balcony. It was foolproof, Senko!
+
+**SENKO** (still seething): 
+
+— Then how did it blow up in your face?
+
+**VECHIRKO**: 
+
+— The old hag smelled a rat immediately. She locked that fire escape gate with her own heavy-duty bike lock. Then she found keys for the balcony door and jammed the latch from the outside. But that’s not even the half of it. She blocked it from the inside too. It wasn't a normal handle, but a long bar. She wedged a thick piece of wood under it and lashed the whole thing with rope like she was securing a ship. You couldn't budge that handle a damn millimeter.
+
+**SENKO** (furious): 
+
+— Filthy bitch! How does she know our moves? Who's leaking to her?
+
+**VECHIRKO**: 
+
+— You did this to yourself, Senko!
+
+**SENKO** (enraged):
+
+— Say what?!
+
+**VECHIRKO** (hurriedly): 
+
+— Remember Moscow? Your sons kept breaking into her place through the balcony. Now she’s obsessed! She thinks the balcony is the weakest link. If they hadn't played "spider-man" back then, she’d be in a pine box by now!
+
+**SENKO** (indignant): 
+
+— We had to! We trashed her gear, poked holes in her mattress, and most importantly, we spiked her thermal underwear with poison! If that piece of filth hadn't decided to run a load of laundry right before Turkey, she’d have been pushing up daisies for two years now! She wasn't supposed to wash that suit!
+
+**SENKO** (pouting): 
+
+— She had no business washing that suit!
+
+**VECHIRKO** (wryly): 
+
+— Yeah... tough break...
+
+**SENKO** (exploding): 
+
+— You told me she only washes it after the season, never before!
+
+**VECHIRKO** (stubbornly): 
+
+— And that was the rule for ten years! October, every time. Never in the spring.
+
+**SENKO**: 
+
+— Then why now?!
+
+**VECHIRKO**: 
+
+— Because she had extra room in the machine, and her washer is a piece of junk — if it’s not full, it starts bucking and jumping like a bronco.
+
+**SENKO**: 
+
+— You sound like you’re inside her head, Vechirko. It’s creepy.
+
+**VECHIRKO** (condescendingly): 
+
+— I’ve lived her life for ten years, Senko. I know her logic better than she does.
+
+**SENKO** (grimacing): 
+
+— To hell with her, her junk washer, and her paranoid "protocols"!
+
+**VECHIRKO** (smirking): 
+
+— Well, we did hide a poison crystal in the faucet filter, just for kicks.
+
+**SENKO** (sarcastic): 
+
+— And I suppose she didn't touch the cap?
+
+**VECHIRKO** (glumly): 
+
+— She unscrewed it. But she put it back when she checked out.
+
+**SENKO** (hard): 
+
+— Look, Vechirko. I’ve had it up to here with your excuses. If you botch the next one, your per diems and travel costs are coming out of your own damn paycheck. You hear me?
+
+**VECHIRKO** (hesitant): 
+
+— But Senko, it’s not on me! This bitch is a straight-up "force majeure." Legally, you can't pin an act of God on me!
+
+**SENKO** (looming): 
+
+— Don't you dare talk back. I'll show you an "act of God" that'll make your head spin!
+
+#OrthodoxMilitaryPutinism 👻
+
 <img src="https://pvpclt.github.io/project/Images/Logo.jpg" style="display: block; margin: 0 auto; width: 50%;" alt="">
 
 [**List Of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
+
 
 
 
