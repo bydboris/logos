@@ -2,6 +2,7 @@
 title: "Anatomie des 'valeurs traditionnelles' de Poutine | Une autopsie laïque de l'hypocrisie sacrée" 
 description: "Selon la doctrine de Poutine, la morale chrétienne est au cœur des valeurs traditionnelles russes. Dans cet article, nous analysons en détail le code moral chrétien et prouvons qu'en Russie, il est grossièrement bafoué en tout point. Un guide convaincant et accessible à tous à travers le 'temple' de l'hypocrisie sacrée"
 ---
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md)
 
