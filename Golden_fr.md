@@ -2,6 +2,7 @@
 title: "La Douzaine d'Or : Top 12 des miniatures satiriques révélant l'essence du Poutinisme militaire orthodoxe"
 description: "Une sélection fatale issue de l'album 'Chambre n°666'. Aux côtés du 'Guide pratique du FSB' et de 'La Salle des Mille Vérités', 'La Douzaine d'Or' se place à l'avant-garde de la satire politique – ces miniatures portent des coups mortels, vifs et précis, mettant à nu la folie, le cynisme, la cruauté et l'irrationalité du poutinisme militaire orthodoxe. Commencez par la Douzaine d'Or"
 ---
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md)
 
