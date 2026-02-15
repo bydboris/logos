@@ -2,6 +2,7 @@
 title: "In the Hall of a Thousand Truths: Poisonous Source of Putin's Rhetoric"
 description: "Satirical and philosophical collection. Bar dialogues Putin—Trump off the record, the 'Court of Osiris' trial, reconstruction of Putin's absurd keynote speeches. A travel guide to the post-truth inferno where a thousand contradictory truths replace and devour reality"
 ---
+<meta name="robots" content="noindex, nofollow">
 
 [**Main Page**](index.md)
 
