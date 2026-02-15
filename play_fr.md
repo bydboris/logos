@@ -2,6 +2,7 @@
 title: "Se relevant de ses genoux | Le cadavre vivant du mythe poutinien"
 description: "La satire clinique comme méthode de dissection artistique du cadavre de la mythologie poutinienne : le piège de la guerre, l'impuissance, la paranoïa, la terreur panique face à l'OTAN, l'agression, la fuite du réel vers le paganisme et le satanisme, le narcissisme hystérique. La stupidité ancestrale et le sacrifice masochiste de la Russie au nom d'un 'amour' irrationnel pour son bourreau. Leur 'mariage de raison' est devenu une forme d'esclavage et de dépendance narcotique. Le fameux 'redressement' se transforme en une mort extatique, apothéose de l'affirmation de soi du Führer"
 ---
+<meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md)
 
