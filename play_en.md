@@ -2,6 +2,7 @@
 title: "Rising off her Knees: A Necropsy of the Putinist Mythos"
 description: "A clinical dissection of the Putinist myth: war justifications, pagan-tech rituals, panic over NATO, and the ruler's hysterical mediocrity versus the nation's primordial stupor. The infamous slogan leads to a finale where 'rising' becomes a death spasm in a codependent marriage of ruin."
 ---
+<meta name="robots" content="noindex, nofollow">
 
 [**Main Page**](index.md)
 
