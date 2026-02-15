@@ -2,6 +2,7 @@
 title: "The Anatomy of Putin's 'Traditional Values' | A Secular Autopsy of Sacred Hypocrisy"
 description: "Putin decreed that Russia's 'traditional values' are based on Orthodox morality. This article takes him at his word — and uses his own logic to prove that the state systematically violates every single Christian commandment. A clear, devastating guide to the official hypocrisy that anyone can understand."
 ---
+<meta name="robots" content="noindex, nofollow">
 
 [**Main Page**](index.md)
 
