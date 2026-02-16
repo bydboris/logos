@@ -1,6 +1,7 @@
 ---
 title: "Chambre n°666 : Le grand album de miniatures satiriques | Le poutinisme militaire orthodoxe"
 description: "Près de 60 miniatures satiriques dépeignant un monde de folie politique, d'anarchie, de cynisme et de cruauté, diagnostiqué et disséqué avec une précision chirurgicale par la plume de l'écrivain et le pinceau de l'artiste"
+layout: default
 ---
 <meta name="robots" content="noindex, nofollow">
 
