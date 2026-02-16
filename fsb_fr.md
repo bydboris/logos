@@ -1,6 +1,7 @@
 ---
 title: "Guide pratique du FSB : Protocoles satiriques de la persécution politique | Chroniques"
 description: "Reconstruction artistique des méthodes opérationnelles de persécution des services secrets russes. Basé sur l'expérience réelle de persécution vécue par l'auteur"
+layout: default
 ---
 <meta name="robots" content="noindex, nofollow">
 
