@@ -12,6 +12,14 @@ layout: default
 
 **Auteur : Olga Shcheglova (Boris Bidyaga)**
 
+**Avant-propos**
+
+« Guide pratique du FSB » n’est pas une fiction, ni des suppositions ou des constructions spéculatives.
+
+Les dialogues de Vetchirko et Senko sont fondés sur l’expérience personnelle de l’auteur, qui subit depuis plus de dix ans des persécutions systématiques de la part des services secrets russes. D’abord en Russie, puis après son émigration — dans d’autres pays. 
+
+« Guide pratique du FSB » est la fixation littéraire de méthodes réelles visant à détruire la personnalité et à éliminer physiquement un individu.
+
 ### GUIDE PRATIQUE DU FSB, LEÇON 1
 
 **MISE EN SCÈNE : L'ACCIDENT MORTEL DE LA ROUTE**
