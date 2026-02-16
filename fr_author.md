@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <meta name="robots" content="noindex, nofollow">
 
 [**Page d'accueil**](index.md) 
