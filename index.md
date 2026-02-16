@@ -1,3 +1,8 @@
+---
+layout: default
+---
+<meta name="robots" content="noindex, nofollow">
+
 ## Shcheglova Olga (Boris Bidyaga)
 ![](Images/Logo.jpg)
 
@@ -38,11 +43,11 @@ An artistic study of the Putin regime through the prism of satire, documentary t
 
 [**The Anatomy of Putin's "Traditional Values", analytical article**](values_en.md) 
 
-[**List Of Charitable Foundations Assisting Ukraine**](en_funds)
+[**List Of Charitable Foundations Assisting Ukraine**](en_funds.md)
 
-[**About the Author**](en_author)
+[**About the Author**](en_author.md)
 
-
+[**Mirror on Telegram**](mirror.md)
 ________________________________________________________________________________________________________
 
 ## L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE
@@ -65,9 +70,11 @@ Une étude artistique du régime poutinien à travers le prisme de la satire, du
 
 [**Anatomie des « valeurs traditionnelles » poutiniennes, article analytique**](values_fr.md) 
 
-[**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
+[**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds.md)
 
-[**À propos de l'Auteure**](fr_author)
+[**À propos de l'Auteure**](fr_author.md)
+
+[**Miroir sur Telegram**](mirror.md)
 
 ________________________________________________________________________________________________________
 
@@ -91,9 +98,11 @@ ________________________________________________________________________________
 
 [**Анатомія путінських „традиційних цінностей“, аналітична стаття**](values_ua.md)
 
-[**Перелік благодійних фондів на допомогу Україні**](ua_funds)
+[**Перелік благодійних фондів на допомогу Україні**](ua_funds.md)
 
-[**Про Автора**](ua_author)
+[**Про Автора**](ua_author.md)
+
+[**Дзеркало на Telegram**](mirror.md)
 
 ________________________________________________________________________________________________________
 
@@ -117,6 +126,10 @@ ________________________________________________________________________________
 
 [**Анатомия путинских „традиционных ценностей“, аналитическая статья**](values_ru.md) 
 
-[**Список благотворительных фондов в помощь Украине**](ru_funds)
+[**Список благотворительных фондов в помощь Украине**](ru_funds.md)
 
-[**Об Авторе**](ru_author)
+[**Об Авторе**](ru_author.md)
+
+[**Зеркало на Telegram**](mirror.md)
+
+
