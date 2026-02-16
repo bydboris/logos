@@ -12,6 +12,14 @@ layout: default
 
 **Author: Shcheglova Olga (Boris Bidyaga)**
 
+**Forword**
+
+"FSB Playbook" is not a work of fiction, nor is it based on speculation or conjecture.
+
+The dialogues between Vechirko and Senko are based on the personal experiences of the author, who has been subjected to systematic persecution by the Russian secret services for more than ten years. First in Russia, and after emigrating, in other countries.
+
+"FSB Playbook" is a literary record of real-world methods aimed at destroying an individual’s identity and their physical elimination.
+
 ### FSB PLAYBOOK, LESSON 1
 
 **PERFORMANCE: FATAL ACCIDENT**
