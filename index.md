@@ -35,7 +35,7 @@ An artistic study of the Putin regime through the prism of satire, documentary t
 
 [**The Grand Album of satirical miniatures "Ward №666"**](album_en.md)
 
-[**In the Chamber of a Thousand Truths**](pivo_en.md)
+[**In the Hall of a Thousand Truths**](pivo_en.md)
 
 [**Satirical mini-play "Rising Off Her Knees"**](play_en.md) 
 
@@ -47,7 +47,7 @@ An artistic study of the Putin regime through the prism of satire, documentary t
 
 [**About the Author**](en_author.md)
 
-[**Mirror on Telegram**](mirror.md)
+[**Mirror on Telegram**](https://t.me/start_pvp/6)
 ________________________________________________________________________________________________________
 
 ## L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE
@@ -74,7 +74,7 @@ Une étude artistique du régime poutinien à travers le prisme de la satire, du
 
 [**À propos de l'Auteure**](fr_author.md)
 
-[**Miroir sur Telegram**](mirror.md)
+[**Miroir sur Telegram**](https://t.me/start_pvp/6)
 
 ________________________________________________________________________________________________________
 
@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 [**Про Автора**](ua_author.md)
 
-[**Дзеркало на Telegram**](mirror.md)
+[**Дзеркало на Telegram**](https://t.me/start_pvp/6)
 
 ________________________________________________________________________________________________________
 
@@ -130,6 +130,6 @@ ________________________________________________________________________________
 
 [**Об Авторе**](ru_author.md)
 
-[**Зеркало на Telegram**](mirror.md)
+[**Зеркало на Telegram**](https://t.me/start_pvp/6)
 
 
