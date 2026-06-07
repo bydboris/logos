@@ -12,7 +12,7 @@ layout: default
 
 **Auteur : Olga Shcheglova (Boris Bidyaga)**
 
-![](Images/Cover_Values.jpg)
+![](Images/Cover_Article.jpg)
 
 **Préface** :
 
