@@ -29,8 +29,8 @@ ISBN: 978-5-9903439-3-1
 [**ЕНЦИКЛОПЕДIЯ ПРАВОСЛАВНОГО ВОЄННОГО ПУТIНIЗМУ**](#енциклопедiя-православного-воєнного-путiнiзму)
 
 ISBN: 978-5-9903439-6-2
-________________________________________________________________________________________________________
 
+---
 ## ENCYCLOPEDIA OF ORTHODOX MILITARY PUTINISM
 
 **Charity Art Project in Support of Ukraine**
@@ -55,9 +55,9 @@ An artistic study of the Putin regime through the prism of satire, documentary t
 
 [**About the Author**](en_author.md)
 
-[**Mirror on Telegram**](https://t.me/start_pvp/6)
-________________________________________________________________________________________________________
+[**Mirror**](https://sapio-2.github.io/copy/)
 
+---
 ## L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE
 
 **Projet Artistique Caritatif en Soutien à l’Ukraine**
@@ -82,10 +82,9 @@ Une étude artistique du régime poutinien à travers le prisme de la satire, du
 
 [**À propos de l'Auteure**](fr_author.md)
 
-[**Miroir sur Telegram**](https://t.me/start_pvp/6)
+[**Miroir**](https://sapio-2.github.io/copy/)
 
-________________________________________________________________________________________________________
-
+---
 ## ЕНЦИКЛОПЕДІЯ ПРАВОСЛАВНОГО ВОЄННОГО ПУТІНІЗМУ
 
 **Літературно-художній проект на допомогу Україні**
@@ -110,10 +109,9 @@ ________________________________________________________________________________
 
 [**Про Автора**](ua_author.md)
 
-[**Дзеркало на Telegram**](https://t.me/start_pvp/6)
+[**Дзеркало**](https://sapio-2.github.io/copy/)
 
-________________________________________________________________________________________________________
-
+---
 ## ЭНЦИКЛОПЕДИЯ ПРАВОСЛАВНОГО ВОЕННОГО ПУТИНИЗМА 
 
 **Литературно-художественный проект в помощь Украине.**
@@ -138,6 +136,6 @@ ________________________________________________________________________________
 
 [**Об Авторе**](ru_author.md)
 
-[**Зеркало на Telegram**](https://t.me/start_pvp/6)
+[**Зеркало**](https://sapio-2.github.io/copy/)
 
 
