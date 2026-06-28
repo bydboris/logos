@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 <meta name="robots" content="noindex, nofollow">
 
