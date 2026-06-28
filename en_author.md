@@ -104,6 +104,6 @@ MATIC / POL
 
 Any amount is welcome. Thank you for reading. And for being on the right side of history.
 
-[**List Of Charitable Foundations Assisting Ukraine**](en_funds)
+[**List of Charitable Foundations Assisting Ukraine**](en_funds)
 
 [**Main Page**](index.md)
